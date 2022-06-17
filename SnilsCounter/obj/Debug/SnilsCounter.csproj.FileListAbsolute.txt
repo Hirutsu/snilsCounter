@@ -1,0 +1,11 @@
+C:\Users\offic\source\repos\SnilsCounter\SnilsCounter\bin\Debug\SnilsCounter.exe.config
+C:\Users\offic\source\repos\SnilsCounter\SnilsCounter\bin\Debug\SnilsCounter.exe
+C:\Users\offic\source\repos\SnilsCounter\SnilsCounter\bin\Debug\SnilsCounter.pdb
+C:\Users\offic\source\repos\SnilsCounter\SnilsCounter\obj\Debug\SnilsCounter.csproj.AssemblyReference.cache
+C:\Users\offic\source\repos\SnilsCounter\SnilsCounter\obj\Debug\SnilsCounter.csproj.SuggestedBindingRedirects.cache
+C:\Users\offic\source\repos\SnilsCounter\SnilsCounter\obj\Debug\SnilsCounter.Form1.resources
+C:\Users\offic\source\repos\SnilsCounter\SnilsCounter\obj\Debug\SnilsCounter.Properties.Resources.resources
+C:\Users\offic\source\repos\SnilsCounter\SnilsCounter\obj\Debug\SnilsCounter.csproj.GenerateResource.cache
+C:\Users\offic\source\repos\SnilsCounter\SnilsCounter\obj\Debug\SnilsCounter.csproj.CoreCompileInputs.cache
+C:\Users\offic\source\repos\SnilsCounter\SnilsCounter\obj\Debug\SnilsCounter.exe
+C:\Users\offic\source\repos\SnilsCounter\SnilsCounter\obj\Debug\SnilsCounter.pdb
